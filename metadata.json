@@ -1,0 +1,5 @@
+{
+  "name": "JCord",
+  "description": "A messenger application where users can register with a unique username, manage friend requests, and chat with friends.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
